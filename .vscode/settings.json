@@ -1,0 +1,9 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "better-comments.highlightPlainText": true
+}
